@@ -22,6 +22,6 @@
         apellido varchar(100) not null,  
         nombre varchar(100) not null,  
         dni varchar(100) unique not null,  
-        alta date not null
+        alta date not null  
     );  
 
