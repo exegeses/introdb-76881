@@ -1,5 +1,7 @@
 
-INSERT INTO productos (producto, precio, idMarca, idCategoria, descripcion, imagen, activo) VALUES
+INSERT INTO productos
+    (producto, precio, idMarca, idCategoria, descripcion, imagen, activo)
+VALUES
 -- Accesorios
 ('Mouse inalámbrico Logitech M185', 19.99, 1, 1, 'Mouse óptico inalámbrico con receptor USB', 'mouse_m185.jpg', true),
 ('Funda para laptop 15" AmazonBasics', 15.50, 16, 1, 'Funda acolchada para laptops de hasta 15.6 pulgadas', 'funda_laptop.jpg', true),
