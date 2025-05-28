@@ -1,0 +1,61 @@
+producto,precio,"precio * 1.05",marca,categoria
+"Mouse inalámbrico Logitech M185",19.99,20.9895,Logitech,Accesorios
+"Funda para laptop 15" AmazonBasics",15.50,16.2750,Amazon,Accesorios
+"Soporte ajustable para celular Xiaomi",9.99,10.4895,Xiaomi,Accesorios
+"SSD Kingston 480GB A400",39.99,41.9895,Kingston,Almacenamiento
+"Disco duro externo Seagate 2TB",59.99,62.9895,Samsung,Almacenamiento
+"Tarjeta microSD Samsung 128GB",19.99,20.9895,Samsung,Almacenamiento
+"Auriculares Bluetooth JBL Tune 500BT",39.99,41.9895,JBL,Audio
+"Barra de sonido Bose Solo 5",199.00,208.9500,Bose,Audio
+"Altavoz portátil Sony XB13",59.00,61.9500,Sony,Audio
+"Cámara Canon EOS Rebel T7",499.99,524.9895,Canon,Cámaras
+"Sony Alpha a6000",649.99,682.4895,Sony,Cámaras
+"Cámara de seguridad TP-Link Tapo",29.99,31.4895,TP-Link,Cámaras
+"Xiaomi Redmi Note 12",229.00,240.4500,Xiaomi,Celulares
+"Samsung Galaxy A34",299.00,313.9500,Samsung,Celulares
+"Huawei P30 Lite",249.00,261.4500,Huawei,Celulares
+"Procesador Intel Core i5 12400F",179.00,187.9500,Intel,Componentes
+"Memoria RAM Kingston Fury 16GB",59.99,62.9895,Kingston,Componentes
+"Placa madre Asus TUF B660M",139.00,145.9500,Asus,Componentes
+"PC de escritorio HP Pavilion",499.00,523.9500,HP,Computadoras
+"Mini PC Lenovo ThinkCentre",399.00,418.9500,Lenovo,Computadoras
+"PC gamer armado Intel i7 + RTX3060",1099.00,1153.9500,Intel,Computadoras
+"Cable HDMI 2.1 de 2m",12.00,12.6000,Logitech,Conectividad
+"Adaptador USB-C a HDMI Lenovo",24.00,25.2000,Lenovo,Conectividad
+"Hub USB 4 puertos AmazonBasics",19.00,19.9500,Amazon,Conectividad
+"UPS APC 650VA",89.00,93.4500,Samsung,Energía
+"Regleta inteligente TP-Link",39.00,40.9500,TP-Link,Energía
+"Cargador portátil Xiaomi 20000mAh",29.00,30.4500,Xiaomi,Energía
+"Auriculares Razer Kraken",59.99,62.9895,Razer,Gaming
+"Control inalámbrico Xbox",49.99,52.4895,Samsung,Gaming
+"Silla gamer Xiaomi",120.00,126.0000,Xiaomi,Gaming
+"Smart speaker Amazon Echo Dot",39.99,41.9895,Amazon,"Hogar Inteligente"
+"Google Nest Mini",44.99,47.2395,Google,"Hogar Inteligente"
+"Interruptor inteligente TP-Link",24.99,26.2395,TP-Link,"Hogar Inteligente"
+"Impresora HP DeskJet 2720e",79.00,82.9500,HP,Impresoras
+"Impresora Canon PIXMA G3110",139.00,145.9500,Canon,Impresoras
+"Brother HL-L2370DW",169.00,177.4500,Samsung,Impresoras
+"Laptop Dell Inspiron 15",699.00,733.9500,Dell,Laptops
+"Acer Aspire 5",629.00,660.4500,Acer,Laptops
+"Laptop Huawei MateBook D14",749.00,786.4500,Huawei,Laptops
+"Monitor Acer Nitro 27" FHD",199.00,208.9500,Acer,Monitores
+"Monitor HP 24mh 23.8"",149.00,156.4500,HP,Monitores
+"Monitor LG UltraGear 24"",189.00,198.4500,Samsung,Monitores
+"Teclado mecánico Razer BlackWidow",89.00,93.4500,Razer,Periféricos
+"Monitor LED Samsung 24"",149.99,157.4895,Samsung,Periféricos
+"Combo teclado y mouse Logitech MK270",34.90,36.6450,Logitech,Periféricos
+"Router WiFi TP-Link Archer C6",49.99,52.4895,TP-Link,Redes
+"Extensor de red TP-Link RE305",34.99,36.7395,TP-Link,Redes
+"Adaptador USB WiFi Asus AC1300",29.99,31.4895,Asus,Redes
+"Windows 11 Pro",139.00,145.9500,Asus,Software
+"Office 365 Personal 1 año",69.00,72.4500,Asus,Software
+"Antivirus McAfee Total Protection",29.99,31.4895,Samsung,Software
+"Tablet Samsung Galaxy Tab A8",199.00,208.9500,Samsung,Tablets
+"Tablet Lenovo Tab M10",169.00,177.4500,Lenovo,Tablets
+"iPad 9ª Gen 10.2"",329.00,345.4500,Google,Tablets
+"Proyector portátil Xiaomi Mi Smart",399.00,418.9500,Xiaomi,Video
+"Webcam Logitech C920",79.00,82.9500,Logitech,Video
+"Capturadora de video Elgato HD60 S",159.00,166.9500,Samsung,Video
+"Smartwatch Xiaomi Mi Band 7",59.99,62.9895,Xiaomi,Wearables
+"Huawei Watch Fit",89.00,93.4500,Huawei,Wearables
+"Samsung Galaxy Watch 5",229.00,240.4500,Samsung,Wearables
